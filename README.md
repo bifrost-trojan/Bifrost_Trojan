@@ -1,5 +1,4 @@
-# Bifrost Trojan
-
+![Banner](https://github.com/bifrost-trojan/Bifrost_Trojan/blob/main/Banner.png)
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
