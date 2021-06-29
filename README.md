@@ -31,8 +31,7 @@
 <p align="center">
   <!-- Python -->
   <img src="https://img.shields.io/badge/Python%20-%23121011.svg?&style=for-the-badge&logo=Python&logoColor=#3776AB" /> 
-  <!--<img src="https://img.shields.io/badge/--blue"> -->
-  <img src="https://img.shields.io/badge/%20-%2314354C.svg?&style=for-the-badge&logo=&logoColor=#3776AB"/>
+  <img src="https://img.shields.io/badge/%20-%23D00000.svg?&style=for-the-badge&logo=&logoColor=#3776AB"/> 
   <!-- Java -->
   <img src="https://img.shields.io/badge/Java%20-%23121011.svg?&style=for-the-badge&logo=Java&logoColor=#3776AB"/> 
   <img src="https://img.shields.io/badge/%20-%23D00000.svg?&style=for-the-badge&logo=&logoColor=#3776AB"/> 
@@ -42,18 +41,13 @@
   <!-- Kotlin -->
   <img src="https://img.shields.io/badge/kotlin%20-%23121011.svg?&style=for-the-badge&logo=Kotlin&logoColor=#3776AB"/> 
   <img src="https://img.shields.io/badge/%20-%23D00000.svg?&style=for-the-badge&logo=&logoColor=#3776AB"/> 
- <!-- Python -->
-  <img src="https://img.shields.io/badge/Java%20-%23121011.svg?&style=for-the-badge&logo=Java&logoColor=#3776AB"/> 
+ <!-- Dart -->
+  <img src="https://img.shields.io/badge/dart%20-%23121011.svg?&style=for-the-badge&logo=dart&logoColor=#3776AB"/> 
 </p>
 
 <!--
 ## I'm a tech enthusiast who loves to learn about new things.
 ### There are 10 types of people in the world. Those who get Binary and those who don't..
 ### 🛠 &nbsp;Tech Stack
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Arrduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino&logoColor=007ACC)&nbsp;
+
 -->
