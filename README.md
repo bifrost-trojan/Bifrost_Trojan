@@ -1,5 +1,17 @@
 ![bifrost_trojan](https://github.com/bifrost-trojan/bifrost-trojan/blob/main/images/bifrost_trojan.png)
 
+<hr>
+
+<p align=center>
+  <a href="https://github.com/bifrost-trojan">
+    <img src="https://badges.pufler.dev/visits/bifrost-trojan/bifrost-trojan?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/bifrost-trojan?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/bifrost-trojan?style=flat-square&color=black&logo=github">
+  </a>
+</p>
+
+<hr>
 <!--## I'm a tech enthusiast who loves to learn about new things.-->
 ### There are 10 types of people in the world. Those who get Binary and those who don't..
 ### 🛠 &nbsp;Tech Stack
