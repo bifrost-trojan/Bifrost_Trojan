@@ -72,7 +72,7 @@
   <img src="https://img.shields.io/badge/%20-%23D00000.svg?&style=for-the-badge&logo=&logoColor=#3776AB"/>
   <!-- Google Cloud -->
   <img src="https://img.shields.io/badge/Google Cloud%20-%23121011.svg?&style=for-the-badge&logo=GoogleCloud&logoColor=#3776AB"/> 
-  <img src="https://img.shields.io/badge/|%20-%23121011.svg?&style=for-the-badge&logo=&logoColor=#3776AB"/>
+  <img src="https://img.shields.io/badge/%20-%23121011.svg?&style=for-the-badge&logo=&logoColor=#3776AB"/>
   <!-- azure -->
   <img src="https://img.shields.io/badge/Azure%20-%23121011.svg?&style=for-the-badge&logo=azure-devops&logoColor=#3776AB"/>
 </p>
