@@ -1,4 +1,9 @@
-![bifrost_trojan](https://github.com/bifrost-trojan/bifrost-trojan/blob/main/images/bifrost_trojan.png)
+<br>
+
+<!-- ![bifrost_trojan](https://github.com/bifrost-trojan/bifrost-trojan/blob/main/images/bifrost_trojan.png) -->
+<p align="center">
+ <img  src="https://github.com/bifrost-trojan/bifrost-trojan/blob/main/images/bifrost_trojan.png">
+</p>
 
 <hr>
 
@@ -11,9 +16,23 @@
   </a>
 </p>
 
+
+<p align="center">
+  
+  <img src="https://img.shields.io/badge/Robotics-brown"> 
+  <img src="https://img.shields.io/badge/Machine Learning-green"> 
+  <img src="https://img.shields.io/badge/IoT-red"> 
+  <img src="https://img.shields.io/badge/Computer Vision-magenta"> 
+  <img src="https://img.shields.io/badge/Mobile Development-blue"> 
+  
+</p>
+
 <hr>
-
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Python%20-%23121011.svg?&style=for-the-badge&logo=Python&logoColor=#3776AB" /> 
+  <img src="https://img.shields.io/badge/--blue"> 
+  <img src="https://img.shields.io/badge/Java%20-%23121011.svg?&style=for-the-badge&logo=Java&logoColor=#3776AB"/> 
+</p>
 
 <!--
 ## I'm a tech enthusiast who loves to learn about new things.
