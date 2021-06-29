@@ -45,6 +45,19 @@
   <img src="https://img.shields.io/badge/dart%20-%23121011.svg?&style=for-the-badge&logo=dart&logoColor=#3776AB"/> 
 </p>
 
+<hr>
+
+
+
+
+
+<hr>
+
+
+<p align=center>  
+  <img align=center src="https://github-readme-stats.vercel.app/api?username=bifrost-trojan&show_icons=true&theme=radical">
+</p>
+
 <!--
 ## I'm a tech enthusiast who loves to learn about new things.
 ### There are 10 types of people in the world. Those who get Binary and those who don't..
