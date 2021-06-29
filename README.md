@@ -47,10 +47,35 @@
 
 <hr>
 
+<p align=center>
+  <!-- VS Code -->
+  <img src="https://img.shields.io/badge/VS Code%20-%23121011.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=#3776AB"/> 
+  <img src="https://img.shields.io/badge/%20-%23D00000.svg?&style=for-the-badge&logo=&logoColor=#3776AB"/> 
+  <!-- Atom -->
+  <img src="https://img.shields.io/badge/Atom%20-%23121011.svg?&style=for-the-badge&logo=atom&logoColor=#3776AB"/> 
+  <img src="https://img.shields.io/badge/%20-%23D00000.svg?&style=for-the-badge&logo=&logoColor=#3776AB"/>
+  <!-- Intellij Idea -->
+  <img src="https://img.shields.io/badge/IntelliJ%20-%23121011.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=#3776AB"/> 
+  <img src="https://img.shields.io/badge/%20-%23D00000.svg?&style=for-the-badge&logo=&logoColor=#3776AB"/>
+  <!-- Netbeans -->
+  <img src="https://img.shields.io/badge/Netbeans%20-%23121011.svg?&style=for-the-badge&logo=apache-NetBeans-ide&logoColor=#3776AB"/> 
+</p>
 
+<hr>
 
-
-
+<p align=center>
+  <!-- Firebase -->
+  <img src="https://img.shields.io/badge/Firebase%20-%23121011.svg?&style=for-the-badge&logo=Firebase&logoColor=#3776AB"/> 
+  <img src="https://img.shields.io/badge/%20-%23D00000.svg?&style=for-the-badge&logo=&logoColor=#3776AB"/>
+  <!-- AWS -->
+  <img src="https://img.shields.io/badge/AWS%20-%23121011.svg?&style=for-the-badge&logo=amazon-AWS&logoColor=#3776AB"/> 
+  <img src="https://img.shields.io/badge/%20-%23D00000.svg?&style=for-the-badge&logo=&logoColor=#3776AB"/>
+  <!-- Google Cloud -->
+  <img src="https://img.shields.io/badge/Google Cloud%20-%23121011.svg?&style=for-the-badge&logo=GoogleCloud&logoColor=#3776AB"/> 
+  <img src="https://img.shields.io/badge/|%20-%23121011.svg?&style=for-the-badge&logo=&logoColor=#3776AB"/>
+  <!-- azure -->
+  <img src="https://img.shields.io/badge/Azure%20-%23121011.svg?&style=for-the-badge&logo=azure-devops&logoColor=#3776AB"/>
+</p>
 <hr>
 
 
