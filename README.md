@@ -88,7 +88,7 @@
     <img src="https://badges.pufler.dev/repos/bifrost-trojan?style=flat-square&color=black&logo=github">
   </a>
 </p>
-
+<hr>
 <!--
 ## I'm a tech enthusiast who loves to learn about new things.
 ### There are 10 types of people in the world. Those who get Binary and those who don't..
