@@ -1,4 +1,4 @@
-![Banner](https://github.com/bifrost-trojan/Bifrost_Trojan/blob/main/Banner.png)
+![Banner]https://github.com/bifrost-trojan/bifrost-trojan/blob/main/images/bifrost_trojan.png)
 
 <!--## I'm a tech enthusiast who loves to learn about new things.-->
 ### There are 10 types of people in the world. Those who get Binary and those who don't..
