@@ -32,8 +32,7 @@
   <!-- Python -->
   <img src="https://img.shields.io/badge/Python%20-%23121011.svg?&style=for-the-badge&logo=Python&logoColor=#3776AB" /> 
   <!--<img src="https://img.shields.io/badge/--blue"> -->
-  <img src="https://img.shields.io/badge/%20-%23323330.svg?&style=for-the-badge&logo=&logoColor=#3776AB"/>
-  
+  <img src="https://img.shields.io/badge/%20-%2314354C.svg?&style=for-the-badge&logo=&logoColor=#3776AB"/>
   <!-- Java -->
   <img src="https://img.shields.io/badge/Java%20-%23121011.svg?&style=for-the-badge&logo=Java&logoColor=#3776AB"/> 
   <img src="https://img.shields.io/badge/%20-%23D00000.svg?&style=for-the-badge&logo=&logoColor=#3776AB"/> 
